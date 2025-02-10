@@ -1,3 +1,5 @@
+//Question 1
+
 const arr1=[10, 3, 5, 6, 20];
 const arr2=[-10, -3, -5, -6, -20];
 const arr3=[1, -4, 3, -6, 7, 0];
