@@ -6,7 +6,6 @@ const arr3=[1, -4, 3, -6, 7, 0];
 
 function maxOfThree(arr){
   const sortedNums = arr.sort((a, b) => b-a)
-  console.log(sortedNums)
   let len = sortedNums.length
   let product1 = sortedNums[0]*sortedNums[len-1]*sortedNums[len-2];
   let product2 = sortedNums[0]*sortedNums[1]*sortedNums[2];
